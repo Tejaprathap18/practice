@@ -3,7 +3,17 @@ class Tej{
 public void main(String [] args){
 
 
+<<<<<<< HEAD
 System.out.println("hi github");
+=======
+
+System.out.println("hello");
+System.out.println("dinesh");
+System.out.println("rakesh");
+
+
+
+>>>>>>> 3d310e477e97ef0bbc350286f54efee40886faac
 }
 
 
