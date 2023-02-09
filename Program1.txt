@@ -3,9 +3,14 @@ class Tej{
 public void main(String [] args){
 
 
+System.out.println("hi github");
+
 
 System.out.println("hello");
 System.out.println("dinesh");
+System.out.println("rakesh");
+
+
 
 
 }
